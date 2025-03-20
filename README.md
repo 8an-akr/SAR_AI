@@ -3,7 +3,7 @@
 This project aims to detect multiple vehicle types and classify terrain types in Synthetic Aperture Radar (SAR) images using YOLOv8. The model is trained on synthetic composite images that combine vehicle images from the MSTAR dataset with realistic SAR background images from the Sentinel-1/2 dataset. The goal is to recognize and localize various military vehicles and determine the terrain type.
 
 ## Features
-#Synthetic Image Generation:
+# Synthetic Image Generation:
 
 Combines multiple SAR vehicle images on realistic terrain backgrounds.
 Supports various terrains: agricultural, barren land, grassland, and urban.
