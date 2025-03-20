@@ -1,8 +1,4 @@
 names:
-- agri
-- barrenland
-- grassland
-- urban
 - 2S1
 - BRDM_2
 - BTR_60
@@ -11,6 +7,10 @@ names:
 - T62
 - ZIL131
 - ZSU_23_4
+- agri
+- barrenland
+- grassland
+- urban
 nc: 12
 train: /content/SAR_AI/synthetic_images/train
 val: /content/SAR_AI/synthetic_images/val
