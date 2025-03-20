@@ -1,9 +1,9 @@
-### SAR AI - Synthetic Aperture Radar Object Detection and Terrain Classification
+# SAR AI - Synthetic Aperture Radar Object Detection and Terrain Classification
 ## Overview
 This project aims to detect multiple vehicle types and classify terrain types in Synthetic Aperture Radar (SAR) images using YOLOv8. The model is trained on synthetic composite images that combine vehicle images from the MSTAR dataset with realistic SAR background images from the Sentinel-1/2 dataset. The goal is to recognize and localize various military vehicles and determine the terrain type.
 
 ## Features
-# Synthetic Image Generation:
+### Synthetic Image Generation:
 
 Combines multiple SAR vehicle images on realistic terrain backgrounds.
 Supports various terrains: agricultural, barren land, grassland, and urban.
@@ -65,6 +65,6 @@ Visualizes detection with bounding boxes and labels.
 Saving and Pushing Results
 The model, generated data, and results are automatically pushed to the GitHub repository for future use and analysis.
 
-Acknowledgements
+### Acknowledgements
 Special thanks to the creators of the MSTAR and Sentinel-1/2 datasets for providing the valuable data that made this project possible.
 
