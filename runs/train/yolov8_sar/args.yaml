@@ -1,6 +1,6 @@
 task: detect
 mode: train
-model: /content/SAR_AI/runs/train/yolov8_sar/weights/best.pt
+model: /content/SAR_AI/runs/train/yolov8_sar/weights/best_yolov8.pt
 data: /content/SAR_AI/data.yaml
 epochs: 150
 time: null
