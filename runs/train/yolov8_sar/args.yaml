@@ -24,7 +24,7 @@ single_cls: false
 rect: false
 cos_lr: false
 close_mosaic: 10
-resume: false
+resume: /content/SAR_AI/runs/train/yolov8_sar/weights/best.pt
 amp: true
 fraction: 1.0
 profile: false
