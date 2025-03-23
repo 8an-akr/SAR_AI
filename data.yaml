@@ -12,5 +12,5 @@ names:
 - ZIL131
 - ZSU_23_4
 nc: 12
-train: /content/SAR_AI/synthetic_images/train
-val: /content/SAR_AI/synthetic_images/val
+train: /content/SAR_AI/data.yaml/train
+val: /content/SAR_AI/data.yaml/val
